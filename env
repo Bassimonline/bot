@@ -1,0 +1,10 @@
+REACT_APP_API_KEY = "AIzaSyBqi5HKtdiPbP-pQAuRUct6tjCkySrbCwg"
+REACT_APP_AUTH_DOMAIN = "blowngrowbot.firebaseapp.com"
+REACT_APP_PROJECT_ID = "blowngrowbot"
+REACT_APP_STORAGE_BUCKET = "blowngrowbot.firebasestorage.app"
+REACT_APP_MESSAGING_SENDER_ID = "498655981330"
+REACT_APP_APP_ID = "1:498655981330:web:3bf3a65a4c8b1ee64dcdcb"
+REACT_APP_BOT_TOKEN = "7940399786:AAEabZDZ7u1ud4qt3fmKBQocAB-EX1eyAsM"
+
+
+
